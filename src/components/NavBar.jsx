@@ -1,5 +1,5 @@
 import React from 'react'
-import Carrito from './carrito'
+import Carrito from './Carrito'
 
 const NavBar = () => {
   return (
@@ -17,7 +17,7 @@ const NavBar = () => {
       
       </ul>
 
-      <Carrito ></Carrito>
+      <Carrito />
 
 
 
